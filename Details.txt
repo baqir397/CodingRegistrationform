@@ -1,0 +1,10 @@
+Name: Baqir Alvi, 
+    Father's Name: Yunus Shah, 
+    Gender : Male, 
+    DateOfBirth : 23/03/1999, 
+    Marks : 434/500, 
+    Studing : B.tech in 3rd year, 
+    Live : New Delhi, 
+    Phone Number : 9625007521, 
+    Email : baqiralvi786@gmail.com, 
+    Programming Language : javascript, python, nodejs, mongodb
